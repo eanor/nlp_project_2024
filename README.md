@@ -20,3 +20,6 @@
 - В папке `models` лежат файлы кода запуска использованных моделей
 - В папке `predictions` лежат косинусные расстояния для каждой пары эпох (Досоветская & Советская, Совесткая & Постсоветская, Досоветская & Постсоветская) для использованных моделей
 
+## Литература
+
+Kutuzov, A. & Pivovarova, L. 2021. Three-part Diachronic Semantic Change Dataset for Russian. In Proc. of the _International Workshop on Computational Approaches to Historical Language Change (LChange)_. Association for Computational Linguistics (ACL). Available at https://arxiv.org/pdf/2106.08294.pdf
