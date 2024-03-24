@@ -11,6 +11,8 @@
 - Тимофей Дедов
 - Светлана Кузнецова
 
+**Золотой стандарт** взят с RuShiftEval \[Kutuzov & Pivovarova 2021\] -- [здесь](https://raw.githubusercontent.com/akutuzov/rushifteval_public/main/annotated_testset.tsv).
+
 ## Описание структуры репозитория
 
 - `models_evaluation.ipynb` код оценки корреляции Спирмена по результатам использованных моделей
